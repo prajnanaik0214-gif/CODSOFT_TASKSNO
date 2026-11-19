@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" fill="none">
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="900" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10264B"/>
+      <stop offset="1" stop-color="#08111F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="172" y1="136" x2="735" y2="394" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3B82F6"/>
+      <stop offset="1" stop-color="#60A5FA"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" rx="24" fill="url(#background)"/>
+  <rect x="88" y="58" width="724" height="404" rx="20" fill="#0B1424" stroke="#304665" stroke-width="2"/>
+  <path d="M108 58h684a20 20 0 0 1 20 20v40H88V78a20 20 0 0 1 20-20Z" fill="#162844"/>
+  <circle cx="119" cy="88" r="7" fill="#F87171"/>
+  <circle cx="143" cy="88" r="7" fill="#FBBF24"/>
+  <circle cx="167" cy="88" r="7" fill="#34D399"/>
+  <rect x="108" y="145" width="160" height="293" rx="12" fill="#101D32"/>
+  <rect x="129" y="169" width="116" height="12" rx="6" fill="#60A5FA"/>
+  <rect x="129" y="207" width="94" height="9" rx="4.5" fill="#52657E"/>
+  <rect x="129" y="235" width="108" height="9" rx="4.5" fill="#52657E"/>
+  <rect x="129" y="263" width="82" height="9" rx="4.5" fill="#52657E"/>
+  <rect x="129" y="291" width="101" height="9" rx="4.5" fill="#52657E"/>
+  <text x="298" y="177" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="25" font-weight="700">Student dashboard</text>
+  <text x="298" y="204" fill="#9FB0C7" font-family="Arial, sans-serif" font-size="14">Overview of student records</text>
+  <rect x="298" y="225" width="148" height="82" rx="12" fill="#162844"/>
+  <rect x="466" y="225" width="148" height="82" rx="12" fill="#162844"/>
+  <rect x="634" y="225" width="148" height="82" rx="12" fill="#162844"/>
+  <text x="317" y="255" fill="#A5B4C8" font-family="Arial, sans-serif" font-size="13">Students</text>
+  <text x="317" y="286" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="27" font-weight="700">1,248</text>
+  <text x="485" y="255" fill="#A5B4C8" font-family="Arial, sans-serif" font-size="13">Courses</text>
+  <text x="485" y="286" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="27" font-weight="700">24</text>
+  <text x="653" y="255" fill="#A5B4C8" font-family="Arial, sans-serif" font-size="13">Attendance</text>
+  <text x="653" y="286" fill="#60A5FA" font-family="Arial, sans-serif" font-size="27" font-weight="700">92%</text>
+  <rect x="298" y="326" width="484" height="105" rx="12" fill="#101D32"/>
+  <text x="317" y="354" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="15" font-weight="700">Recent students</text>
+  <path d="M317 372h446M317 398h446" stroke="#263952" stroke-width="1"/>
+  <circle cx="333" cy="385" r="9" fill="url(#accent)"/>
+  <circle cx="333" cy="412" r="9" fill="#34D399"/>
+  <rect x="354" y="381" width="108" height="8" rx="4" fill="#D6E1F0"/>
+  <rect x="354" y="408" width="129" height="8" rx="4" fill="#D6E1F0"/>
+  <rect x="659" y="380" width="84" height="10" rx="5" fill="#243A58"/>
+  <rect x="659" y="407" width="84" height="10" rx="5" fill="#243A58"/>
+</svg>
